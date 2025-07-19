@@ -11,6 +11,13 @@ body{
     flex-direction: column;
 }
 
+header{
+    background-color: #3498db;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+
 .container{
     display: flex;
     flex: 1;
